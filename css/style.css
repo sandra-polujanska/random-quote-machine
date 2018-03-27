@@ -1,0 +1,42 @@
+body {
+     background-color: #0084b4;
+    color: #ccc;
+}
+
+main {
+    text-align: center;
+    margin: 0 auto;
+}
+
+header {
+    margin-top: 30px;
+    margin-bottom: 80px;
+}
+
+.box {
+    margin-bottom: 50px;
+}
+
+.trigger {
+     margin-bottom: 30px;
+    height: 40px;
+    width: 200px;
+    background-color: #0084b4;
+    color: #ccc;
+    border: 1px solid #ccc;
+    cursor: pointer;
+}
+
+a {
+    display: inline-block;
+    width: 200px;
+    height: 40px;
+    background-color: #0084b4;
+    color: #ccc;
+    border: 1px solid #ccc;
+    text-decoration: none;
+}
+
+a i.fa {
+    padding: 10px 0;
+}
